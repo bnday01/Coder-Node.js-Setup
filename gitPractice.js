@@ -22,3 +22,4 @@ function getMoney(job) {
 }
 getMoney(job);
 //yeah yeah
+//YEAHHHAAAWWW
